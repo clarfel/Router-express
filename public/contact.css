@@ -1,0 +1,9 @@
+.page {
+  color: black;
+  padding-right: 30px;
+}
+.menu {
+  background-color: grey;
+  list-style: none;
+  display: flex;
+}

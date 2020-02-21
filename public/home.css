@@ -1,0 +1,18 @@
+header {
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+.desc {
+  text-align: center;
+}
+.menu {
+  background-color: grey;
+  list-style: none;
+  display: flex;
+}
+.page {
+  padding-right: 30px;
+  color: black;
+}
